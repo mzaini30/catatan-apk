@@ -6,6 +6,7 @@
     "@rollup/plugin-commonjs": "^14.0.0",
     "@rollup/plugin-node-resolve": "^8.0.0",
     "@roxi/routify": "^2.7.3",
+    "dexie": "^3.0.2",
     "nollup": "^0.13.13",
     "rollup": "^2.3.4",
     "rollup-plugin-hot": "^0.1.0",
